@@ -14,6 +14,21 @@
 .impressum {
   text-align: bottom;
 }
+
+.tumblr {
+  font-size: 60px;
+  color: #F78181;
+}
+
+.facebook {
+  font-size: 60px;
+  color: #F78181;
+}
+
+.vimeo {
+  font-size: 60px;
+  color: #F78181;
+}
 audio {
   display: none;
 }

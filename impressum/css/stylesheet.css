@@ -1,0 +1,33 @@
+* {
+  font-family: courier;
+  font-weight: lighter;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: -80px;
+  background-color: #C7C8F0;
+}
+
+.impressumimimpressum {
+  font-size: 25px;
+  margin-top: 80px;
+}
+
+.adress {
+  font-size: 14px;
+  margin-top: 150px;
+}
+
+.telefon {
+  font-size: 14px;
+}
+
+.street {
+  font-size: 14px;
+  margin-top: -40px;
+}
+
+.mail {
+  font-size: 14px;
+  margin-top: 200px;
+}
