@@ -1,13 +1,19 @@
 
-.background {
-   max-width: 80%;
-   max-height: 80%;
+* {
+  font-size: 60px;
+  color: white;
+  font-family: courier;
+  font-weight: lighter;
+  text-align: right;
 }
 
-.title {
-  font-family: helvetica;
+.tel {
+   transform: rotateY(20deg);
 }
 
+.impressum {
+  text-align: bottom;
+}
 audio {
   display: none;
 }
