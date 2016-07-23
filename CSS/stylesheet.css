@@ -13,22 +13,29 @@
 
 .impressum {
   text-align: bottom;
+  font-size: 20px;
+
 }
 
 .tumblr {
-  font-size: 60px;
+  font-size: 70px;
   color: #F78181;
 }
 
 .facebook {
-  font-size: 60px;
+  font-size: 70px;
   color: #F78181;
+
 }
 
 .vimeo {
-  font-size: 60px;
+  font-size: 70px;
   color: #F78181;
+  margin-right: 500px;
+  margin-top: 200px;
 }
+
+
 audio {
   display: none;
 }
